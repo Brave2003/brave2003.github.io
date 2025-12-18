@@ -110,9 +110,9 @@ tags: [chirpy, jekyll, markdown]
 
 ```md
 | Feature | Supported |
-|--------|-----------|
-| TOC    | Yes       |
-| Math   | Yes       |
+|---------|-----------|
+| TOC     | Yes       |
+| Math    | Yes       |
 ```
 
 ---
