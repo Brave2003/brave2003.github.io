@@ -16,6 +16,8 @@ timezone: Asia/Shanghai
 
 title: Brave2003's Blog # the main title
 
+future: true
+
 tagline: Notes on Computer Vision and Study # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
